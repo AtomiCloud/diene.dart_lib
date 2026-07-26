@@ -1,9 +1,8 @@
 ## 1.0.0 (2026-07-26)
 
-
 ### ✨ Features ✨
 
-* **dart-lib:** seed diene_dart_lib mirror ([fd877ba](https://github.com/AtomiCloud/diene.dart_lib/commit/fd877bad845ba841c005fc4df93321053fe27533))
+- **dart-lib:** seed diene_dart_lib mirror ([fd877ba](https://github.com/AtomiCloud/diene.dart_lib/commit/fd877bad845ba841c005fc4df93321053fe27533))
 
 # Changelog
 
